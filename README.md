@@ -1,20 +1,24 @@
-# bookmark_manager
+#Bookmark Manager
+##User Stories for the Bookmark Manager:
 
-User Stories
 ```
-1. As a user
-   So that I can see all bookmarks
-   I want to be able to see a list of all links
-
-2. As a user
-   So that I can bookmark a page
-   I want to be able to add new links
-
-3. As a user
-   So that I can name my bookmarks
-   I want to be able to add tags to my links
-
-4. As a user  
-   So that I can organise my bookmarks
-   I want to be able to filter my links
+As a User
+So that I can select links from Bookmark Manager
+I want it to show me saved links
 ```
+```
+As a User
+So that I can visit my favourite websites
+I want to save links to the Bookmark Manager
+```
+```
+As a User
+So that I can organise my links
+I want to add tags to my saved links
+```
+```
+As a User
+So that I can find related links
+I want to filter the links by tags
+```
+![User Stories Diagram](image.jpeg)
