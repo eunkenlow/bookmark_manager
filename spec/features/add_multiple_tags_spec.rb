@@ -1,6 +1,5 @@
 require 'spec_helper'
 
-
 feature 'Add tags to new link' do
   scenario 'when creating a new link' do
     visit '/links/new'

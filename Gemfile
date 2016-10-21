@@ -12,4 +12,5 @@ gem 'sinatra'
 gem 'rake'
 gem 'rspec'
 gem 'database_cleaner'
+gem 'bcrypt'
 #end
