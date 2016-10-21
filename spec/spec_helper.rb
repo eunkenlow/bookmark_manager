@@ -5,6 +5,7 @@ require 'capybara'
 require 'capybara/rspec'
 require 'rspec'
 require_relative 'web_helper'
+require 'sinatra'
 
 ENV['RACK_ENV'] = 'test'
 
